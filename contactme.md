@@ -8,9 +8,7 @@
         <link rel="icon" href="img/myicon.ico">
         <title>contactme</title>
     </head>
-    
     <body>
-        
         <header class="page-header">
             <h1>My Blog</h1>
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyCDNR7KvW0IL3GU0Mp3uAc2WfpDmV5vIBC62YaRR4dgA2t2h4" alt="my foto">
@@ -23,7 +21,6 @@
             </ul>
           </nav>
     </header>
-            
             <form >
                 Name:<br>
                 <input type="text" name="firstname" >
@@ -36,10 +33,8 @@
                 <br><br>
                 <input type="submit" value="Submit">
               </form> 
-            
             <footer>
                 <p>@ 2019 Shadia Nasman - BeCode <br> shadia.nasman19882gmail.com  </p>
          </footer>
-
     </body>
 </html>
