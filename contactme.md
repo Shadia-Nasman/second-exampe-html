@@ -9,10 +9,9 @@
         <title>contactme</title>
     </head>
     <body>
-        <header class="page-header">
+        <header >
             <h1>My Blog</h1>
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyCDNR7KvW0IL3GU0Mp3uAc2WfpDmV5vIBC62YaRR4dgA2t2h4" alt="my foto">
-            <h2>contact me</h2>
     <nav >
             <ul>
               <li><a href="home.html">Home</a></li>
@@ -21,6 +20,7 @@
             </ul>
           </nav>
     </header>
+        <h2>contact me</h2>
             <form >
                 Name:<br>
                 <input type="text" name="firstname" >
