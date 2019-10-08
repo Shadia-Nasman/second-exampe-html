@@ -13,9 +13,9 @@
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyCDNR7KvW0IL3GU0Mp3uAc2WfpDmV5vIBC62YaRR4dgA2t2h4" alt="my foto">
 <nav >
         <ul>
-          <li><a href="home.html">Home</a></li>
-          <li><a href="myskills.html">my skills</a></li>
-          <li><a href="contactme.html">Contact me</a></li>
+          <li><a href="home.md">Home</a></li>
+          <li><a href="myskills.md">my skills</a></li>
+          <li><a href="contactme.md">Contact me</a></li>
         </ul>
       </nav>
 </header>
