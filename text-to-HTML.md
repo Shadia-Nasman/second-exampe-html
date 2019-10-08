@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-
 <html lang="en">
     <head>
         <meta charset="utf-8"> 
@@ -9,56 +8,38 @@
         <title>text-to-html</title>
     </head>
 <body>
-
-<article>
-  
-   
+<article> 
   <h1>Myth: Accessibility is 'blind people'</h1>
-
- 
-
   <p> Published on January 11, 2013 by Dave Rupert - Updated: November 23, 2018 </p>
-
-
         <p>Accessibility is often viewed as making your site work on screen readers.   
         reality, web accessibility is a subset of User Experience (UX) 
          focused on making your websites usable by the widest range of people possible, 
           including those who have disabilities.</p>
 </article>
-
           <p> <strong>Four categories of accessibility</strong><br>
                 Accessibility can be broken down into four key categories:</p>
-
                 <section>
-                        <h3>Visual</h3>
-                        
+                        <h3>Visual</h3>            
                         <strong>this can be </strong> 
                           <ul>
                                 <li>users with low-vision,</li>
                                 <li>users with obstructed vision,</li>
                                 <li>or even simply your aging parents.</li>
                               </ul>
-                        
                               <p> <strong>associated conditions</strong></p>
-
                               <ul>
-                                  
                                     <li>Myopia</li>
                                             <li> Colour blindness</li>
                                                     <li>Glaucoma</li>
                                                             <li> Albinism</li>
                               </ul>
-
-                        
                       </section>
-
                       <section>
                          <h3>Auditory</h3>
                         <p>The web is a visual medium, but captions and fallbacks for sound-necessary media need to be 
                             considered for hearing impaired users. </p> 
                              <strong>associated conditions</strong>
                               <ul>
-                                   
                                             <li> Presbycusis</li>
                                                     <li> Acoustic trauma</li>
                                                             <li> Auditory processing disorder</li>
