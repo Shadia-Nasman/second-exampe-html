@@ -45,28 +45,19 @@
                                                             <li> Auditory processing disorder</li>
                                                                     <li> Otosclerosis</li>
                                   </ul>
-                           
-                            
                           </section>
-
                           <section>
                                 <h3>Motor</h3>
-
                        <p>People with motor impairments typically use a wide range of assistive technology from specialized keyboards,
                             to eye trackers, to using single buttons (a device known as a "switch") to navigate their computers.</p>
-
                             <p><strong>Associated conditions</strong></p>
-
                             <ul>
-
                             <li>RSI</li>
                                 <li>Cerebral palsy</li>
                                     <li>Parkinson’s</li>
                                         <li>Muscular dystrophy</li>
                             </ul>
-
                             </section>
-
                             <section>
                             <h3> Cognitive </h3>
                             Relates to the ease processing of information.
@@ -77,29 +68,13 @@
                                 <li>Global developmental delay</li>
                                 <li>Dyslexia</li>
                             </ul>
-
                             </section>
-                            
-
-                            
-                               <h4> <Strong>Temporary disabilities</Strong></h4>
-                               
+                               <h4> <Strong>Temporary disabilities</Strong></h4> 
                                 While each of these disabilities is usually permanent, there are often situations in which even fully-abled people are "temporarily disabled".
                                  For instance, an arm or wrist injury may temporarily prevent you from being able to use a mouse.
-
                             Robin Christopherson (an accessibility expert who is blind) once spoke about how people that are driving but 
                             use hands-free sets or have their phone connected to the car radio are temporarily disabled, as they use the 
                             phone differently to how they normally would. Of course, no one should browse websites while they are driving 
                             but it is important to understand different situations like that,
                             where the user may not have special software installed that a disabled user might.
-                            
-                             
-
-
-
-                        
-
-                                              
-
-
 </body>
