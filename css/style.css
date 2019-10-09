@@ -1,0 +1,82 @@
+
+* {text-align: center;
+    margin: auto;
+    
+    }
+
+h1
+{
+    color: rgb(54, 19, 37);
+    border-style: outset; 
+    border: 5px solid rgb(221, 216, 221);
+    border-width: 15px;
+}
+
+h2
+{
+    color: rgb(68, 42, 4);
+    
+    ;
+}
+
+h3
+{
+    color: rgb(15, 9, 1); 
+    
+}
+
+p 
+{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    font-family: verdana;
+    font-size: 20px;  
+   
+}
+
+img
+{
+    border-image: fill;
+    
+    border-radius: 50%;
+
+}
+
+body
+{
+    background-image: url(/secondzxhtml/img/bodyground.png);
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgb(139, 138, 138);
+
+}
+#skills
+{
+    opacity: 0.5;
+    filter: alpha(opacity=50); 
+}
+
+nav
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(207, 178, 190);
+    display: block;
+}
+
+a:hover
+{
+    background-color: rgb(134, 124, 114)
+}
+
+a.active {
+    background-color:rgb(134, 124, 114);
+    
+  }
+  
+
+
