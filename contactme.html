@@ -8,39 +8,61 @@
         <link rel="icon" href="img/myicon.ico">
         <title>contactme</title>
         <link rel="stylesheet" type="text/css" href="css/style.css" media="screen" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     </head>
     
     <body>
         
-        <header class="page-header">
-            <h1>H1 main header </h1>
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyCDNR7KvW0IL3GU0Mp3uAc2WfpDmV5vIBC62YaRR4dgA2t2h4" alt="my foto">
-            <h2>H2 header contact me</h2>
-            <nav >
-                
-                <a href="index.html">Home</a>
-                <a href="myskills.html">my skills</a>
-                <a href="contactme.html">Contact me</a>
+        <header  >
+                <h1>MY Blog </h1>
+            <img src="/img/mainfoto.jpg">
+       
+           
+                            
+    <nav class="topnav" >
+            
+              <a href="index.html">Home</a>
+              <a href="myskills.html">my skills</a>
+              <a href="contactme.html">Contact me</a>
               
-            </nav>
+              <div>
+                  <input type="text" placeholder="Search..">
+              </div>
+            
+          </nav>
     </header>
+
+    <h2> Contact Me</h2>
             
-            <form >
-                Name:<br>
-                <input type="text" name="firstname" >
-                <br>
-                E-mail:<br>
-                <input type="email" name="email">
-                <br>
-                Subject:<br>
-                <input type="text" name="subject" >
-                <br><br>
+
+            <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/YOUR_EMAIL_HERE" method="post">
+                <fieldset id="fs-frm-inputs">
+                  <label for="full-name">Full Name</label> <br>
+                  <input type="text" name="name" id="full-name" placeholder="First and Last" required=""><br><br>
+                  <label for="email-address">Email Address</label><br>
+                  <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required=""><br><br>
+                  <label for="message">Message</label><br>
+                  <textarea rows="5" name="message" id="message" placeholder="write here the message" required=""></textarea><br><br>
+                  <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+                </fieldset>
                 <input type="submit" value="Submit">
-              </form> 
-            
+              </form>
+
             <footer>
-                <p>@ 2019 Shadia Nasman - BeCode <br> shadia.nasman19882gmail.com  </p>
-         </footer>
+
+
+    @ 2019 Shadia Nasman - BeCode  <address><a href="contactme.html">shadia.nasman1988@gmail.com</a></address> 
+    
+    
+    <a href="https://en-gb.facebook.com/login/" class="fa fa-facebook"></a>
+    <a href="https://github.com/Shadia-Nasman" class="fa fa-github"></a>       
+    <a href="https://www.linkedin.com/in/shadia-nasman-a71b19190/" class="fa fa-linkedin"></a>   
+          
+         
+        
+            
+      
+</footer>
 
     </body>
 </html>
